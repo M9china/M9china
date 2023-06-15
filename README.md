@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m9china&label=Profile%20views&color=0e75b6&style=flat" alt="m9china" /> </p>
 
-- 🌱 I’m currently learning **MongoDB,Express,React, Node,C,JavaScript,Python,TypeScript**
+- 🌱 I’m currently learning **MERN,C,Python**
 
 - 💬 Ask me about **MERN**
 
