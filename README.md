@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mvundlela Nqobile</h1>
 <h3 align="center">A Full Stack Developer who's passionate about Backend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m9china&label=Profile%20views&color=0e75b6&style=flat" alt="m9china" /> </p>
-
 - 🌱 I’m currently learning **MongoDB,Express,React, Node,C,JavaScript,Python,TypeScript**
 
 - 💬 Ask me about **MERN**
@@ -21,5 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m9china&show_icons=true&locale=en" alt="m9china" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m9china&" alt="m9china" /></p>
+
+
 
 
