@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mvundlela Nqobile</h1>
 <h3 align="center">A Full Stack Developer who's passionate about Backend</h3>
 
-- 🌱 I’m currently learning **MongoDB,Express,React, Node,C,JavaScript,Python,TypeScript**
+- 🌱 I’m currently learning **MongoDB,MySQL,Express,React, Node,C,JavaScript,Python,TypeScript**
 
 - 💬 Ask me about **MERN**
 
